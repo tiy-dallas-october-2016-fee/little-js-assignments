@@ -1,6 +1,6 @@
 //# 1 - write a function that takes two numbers and returns a sum
 
-//# 2 - write a function that takes a password and returns if it is equal to 'p@55w0rd'
+//# 2 - write a function that takes a password and returns true if it is equal to 'p@55w0rd', false otherwise
 
 //# 3 - write a function that takes a string and returns whether or not it is longer than 10 characters long.
 
